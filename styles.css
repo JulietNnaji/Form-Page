@@ -276,7 +276,7 @@ to {
     color: #ecf0f1; /* Light Gray */
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 350px) {
     .form-container {
       width: 100%;
     }
